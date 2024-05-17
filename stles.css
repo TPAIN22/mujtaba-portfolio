@@ -321,7 +321,7 @@ form .btn2{
 
 /*----------------css for small screen-----------------------*/
 .fa-solid {
-    display: none;
+    display:none;
 }
 
 @media only screen and (max-width:600px) {
